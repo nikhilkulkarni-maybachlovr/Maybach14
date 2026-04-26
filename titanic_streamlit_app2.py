@@ -10,7 +10,7 @@ import io
 
 # --- Page Configuration ---
 st.set_page_config(
-    page_title="Titanic Survival Predictor",
+    page_title="Titanic Survival Predictors",
     page_icon="🚢",
     layout="wide",
     initial_sidebar_state="expanded",
